@@ -1,2 +1,2 @@
 # insurance-prediction
- This model was uploaded and registered in MLFlow to be deployed in spark.
+ This model that was trained and tested using PyCaret and is uploaded and registered in MLFlow to deploy in spark.
